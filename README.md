@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-emadeldin" alt="mohamed-emadeldin" /></a> </p> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2581AA&center=true&multiline=true&width=394&lines=Welcome+and++let's+start+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2581AA&center=true&multiline=true&width=394&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 - 🔭 I’m currently working on [my portfolio](https://github.com/Mohamed-EmadEldin)
 
 - 🌱 I’m currently learning **Angular,React**
